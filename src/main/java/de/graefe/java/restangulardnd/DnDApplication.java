@@ -25,7 +25,7 @@ public class DnDApplication {
 	}
 
 	/**
-	 * Cors filter cors filter.
+	 * Cors filter.
 	 *
 	 * @return the cors filter
 	 */
